@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InfosApp</string>
+    <string name="edittext_uri">http://developer.android.com</string>
+    <string name="button_uri">Ouvrir URL</string>
+
+    <string name="edittext_loc">Tour Eiffel</string>
+    <string name="button_loc">Ouvrir Localisation</string>
+
+    <string name="edittext_share">DS dans 10 jours</string>
+    <string name="button_share">Partager texte</string>
+    <string name="share_text_with">Partager avec:</string>
+</resources>
